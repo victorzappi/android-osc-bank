@@ -22,7 +22,7 @@ This project uses a `gradle.properties` file to handle signing configurations. T
 
     ```
     OSCBANK_STORE_FILE=/path/to/your/storefile.keystore
-    OSCBANK_RELEASE_STORE_PASSWORD=your_keystore_password
+    OSCBANK_STORE_PASSWORD=your_keystore_password
     OSCBANK_KEY_ALIAS=your_key_alias
     OSCBANK_KEY_PASSWORD=your_key_password
     ```
