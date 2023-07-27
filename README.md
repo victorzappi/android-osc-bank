@@ -31,8 +31,6 @@ This project uses a `gradle.properties` file to handle signing configurations. T
 
 After you've set up your `gradle.properties` file, you should be able to build the project in Android Studio.
 
-![Setting Up Signing Configurations](https://showme.redstarplugin.com/s/hHvtnIUN)
-
 If you encounter any issues or have any questions, feel free to contact me.
 
 
